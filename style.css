@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(127, 97, 76);
+}
+h1{
+    text-align: center;
+    color: blanchedalmond;
+}
+header{
+    border: 5px double blanchedalmond;
+    border-radius: 10px;
+}
+main{
+    background-color: rgb(73, 52, 52);
+    color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.r{
+    background-color: burlywood;
+}
+
